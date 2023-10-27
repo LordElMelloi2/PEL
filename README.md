@@ -1,12 +1,12 @@
 # PEL (Personal Essential Library)
 
-Una colección de librerias para utilizar en proyectos personales. Las librerias hasta este momento incluyen.
-* pelmem: Libreria que se utiliza para poder generar arreglos dinamicos.
-* pelisl: Libreria para utilizar un arreglo de numeros que es dinamico. (En este momento solo se puede añadir elmentos; crear o liberar toda la memoria del arreglo)
+Una colección de librerías para utilizar en proyectos personales. Las librerías hasta este momento incluyen.
+* pelmem: Librería que se utiliza para poder generar arreglos dinámicos.
+* pelisl: Librería para utilizar un arreglo de números que es dinámico. (En este momento solo se puede añadir elementos; crear o liberar toda la memoria del arreglo)
 
-## Caracteristicas planeadas
+## Características planeadas
 
-* Permitir remover elementos de los arreglos generados con la libreria <pelisl>.
+* Permitir remover elementos de los arreglos generados con la librería <pelisl>.
 
 ## Ejemplo
 
